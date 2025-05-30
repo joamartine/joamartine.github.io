@@ -3,4 +3,4 @@
   title: "Currículum Vitae"
 ---
 
-Puedes descargar mi CV [aquí](assets/cv.pdf).
+Puedes descargar mi CV [aquí](assets/cv_martinez_ingles.pdf).

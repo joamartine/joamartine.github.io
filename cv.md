@@ -1,32 +1,34 @@
 ---
-  layout: page
-  title: "Currículum Vitae"
+layout: page
+title: "CV"
 ---
 
-# CV
+# Currículum Vitae
 
-Puedes descargar mi CV [aquí](assets/cv_martinez_latex.pdf).
+Puedes ver o descargar mi CV a continuación:
 
-## Experience
+<div style="text-align: center; margin-top: 20px;">
+  <a href="/assets/cv_martinez_latex.pdf" target="_blank" class="button">Descargar CV (PDF)</a>
+</div>
 
-- 2025 Intern, BCI Estudios
-- 2024-25 Intern, Fiscalía Nacional Económica, National Economic Prosecutor, Merger Division.
-- 2023-24 Research Assistant, Labor Market Mismatch Causes and Consecuences (LM2C2).
+<div style="width: 100%; height: 800px; margin-top: 20px;">
+  <iframe src="/assets/cv_jvmo.pdf" style="width:100%; height:100%; border: none;">
+    Este navegador no soporta PDFs incrustados. Puedes descargar el CV [aquí](/assets/cv_martinez_latex.pdf).
+  </iframe>
+</div>
 
-
-Some teaching experience from my work as a teaching assistant and tutor at my faculty. 
-### Graduate Teaching Assistant
-- International Finance (Master in Economic Analysis)
-
-### Undergrad Teaching Assistant
-I have worked as a teaching assistant for courses in industrial organization, macroeconomics, and applied microeconomics at my faculty. (BSc in Economics)
-
-- Investments (Finance I) - Prof. José Ruiz (Spring 2025)
-- Corporate Finance (Finance II) - Prof. Julio Rebolledo (Spring 2025)
-- Monetary Theory (Macroeconomics II) – Prof. Jorge Hermann (Fall 2024)
-- Industrial Organization (Microeconomics II) – Prof. Paola Bordón (Fall & Spring 2024, Fall 2025)
-- Applied Economics – Prof. Óscar Landerretche (Spring 2023 & Spring 2024)
-- Introduction to Macroeconomics – Prof. Eugenia Andreasen & Humberto Martínez (Spring 2024)
-
-### Academic Support Unit Lecturer - FEN UChile
-I taught weekly classes as part of the academic support program for the Introduction to Economics course. In 2024, I was responsible for three groups, and in 2025, I continued in this role while also serving as Tutor Coordinator.
+<style>
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Color azul de ejemplo */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  .button:hover {
+    background-color: #0056b3; /* Color azul más oscuro al pasar el mouse */
+  }
+</style>

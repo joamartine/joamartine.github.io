@@ -3,10 +3,6 @@ layout: page
 title: "CV"
 ---
 
-# Currículum Vitae
-
-Puedes ver o descargar mi CV a continuación:
-
 <div style="text-align: center; margin-top: 20px;">
   <a href="/assets/cv_martinez_latex.pdf" target="_blank" class="button">Descargar CV (PDF)</a>
 </div>

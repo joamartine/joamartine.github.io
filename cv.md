@@ -4,7 +4,7 @@ title: "CV"
 ---
 
 <div style="text-align: center; margin-top: 20px;">
-  <a href="/assets/cv_martinez_latex.pdf" target="_blank" class="button">Descargar CV (PDF)</a>
+  <a href="/assets/cv_jvmo.pdf" target="_blank" class="button">Descargar CV (PDF)</a>
 </div>
 
 <div style="width: 100%; height: 800px; margin-top: 20px;">
